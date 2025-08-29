@@ -50,7 +50,7 @@
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12">
                                     <div class="form-group">
-                                        <label class="form-label">নাম (বাংলায়)</label>
+                                        <label class="form-label">LastName
                                         <input type="text" class="form-control" name="userName_bn"
                                             value="{{old('userName_bn')}}">
                                     </div>
@@ -67,7 +67,7 @@
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-12">
                                     <div class="form-group">
-                                        <label class="form-label">ফোন নাম্বার (বাংলায়)</label>
+                                        <label class="form-label">Phone Number</label>
                                         <input type="tel" class="form-control" name="contactNumber_bn"
                                             value="{{old('contactNumber_bn')}}">
                                     </div>
